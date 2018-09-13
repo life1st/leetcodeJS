@@ -1,4 +1,4 @@
-var ts = require('./lib/twoSum')
+var ts = require('../lib/twoSum')
 
 var arr = [2,4,7,9],
     target = 13

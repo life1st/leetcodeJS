@@ -1,6 +1,6 @@
-var addTwoNumbers = require('./lib/addTwoNumbers')
+var addTwoNumbers = require('../lib/addTwoNumbers')
 
-var ListNode = require('./lib/base/listNode')
+var ListNode = require('../lib/base/listNode')
 /* function ListNode(val){
     this.val = val
     this.next = null

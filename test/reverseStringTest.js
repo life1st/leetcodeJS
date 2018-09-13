@@ -1,4 +1,4 @@
-var rs = require('./lib/reverseString')
+var rs = require('../lib/reverseString')
 
 var arr = ['testssd', 'dssadf', 'dadoweks', 'dfadase']
 var start = new Date().getTime()

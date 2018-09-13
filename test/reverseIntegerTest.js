@@ -1,4 +1,4 @@
-var reverse = require('./lib/reverseInteger')
+var reverse = require('../lib/reverseInteger')
 
 var res = reverse(26500000)
 console.log(res)
